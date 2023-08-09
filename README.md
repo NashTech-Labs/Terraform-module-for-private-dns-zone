@@ -20,7 +20,7 @@ Clone this Git repo to your local machine.
 Replace the subscription id variable with your account subscription  id where you want to create your dns zone
 
 ```bash
-git@github.com:NashTech-Labs/Azure_generic_private_dns_zone_using_terraform_module.git
+git@github.com:NashTech-Labs/Terraform-module-for-private-dns-zone.git
 ```
 
 Change into the directory containing the module.
