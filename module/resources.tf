@@ -1,10 +1,4 @@
 terraform {
-  backend "remote" {
-    organization = "DCTEnterprise"
-    workspaces {
-      prefix = "ws-"
-    }
-  }
   required_version = ">= 0.13"
 }
 
